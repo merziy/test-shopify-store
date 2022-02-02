@@ -6,18 +6,12 @@
 }
 
 .article {
-  width: 30%;
+  width: 50%;
   padding: 2rem;
 }
 
 .blog-articles .card-wrapper {
   width: 100%;
-}
-
-@media screen and (max-width: 12000px) {
-  .article {
-    width: 50%;
-  }
 }
 
 @media screen and (max-width: 900px) {
