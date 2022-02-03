@@ -1,0 +1,98 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1643856008536f524a": {
+      "type": "image-banner",
+      "blocks": {
+        "16438560087fa8dc2e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Who we are:",
+            "heading_size": "medium"
+          }
+        },
+        "16438560087fa8dc2e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Refurbished designer furniture and objects.",
+            "text_style": "body"
+          }
+        },
+        "16438560087fa8dc2e-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16438560087fa8dc2e-0",
+        "16438560087fa8dc2e-1",
+        "16438560087fa8dc2e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mel-poole-ytIrICiDShA-unsplash.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "164385623786ebb117": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "16438562376d3793f3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet justo donec enim diam vulputate. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet mattis vulputate enim nulla aliquet porttitor. Amet justo donec enim diam vulputate. Donec massa sapien faucibus et molestie ac. Faucibus a pellentesque sit amet porttitor eget dolor morbi. Sapien faucibus et molestie ac. Eleifend quam adipiscing vitae proin sagittis. Lectus sit amet est placerat in egestas erat imperdiet sed. Et malesuada fames ac turpis egestas. Diam maecenas ultricies mi eget. Tempor nec feugiat nisl pretium fusce id velit ut. Varius quam quisque id diam. Arcu dictum varius duis at consectetur lorem donec massa. Tristique risus nec feugiat in fermentum.<\/p><p>Dictum varius duis at consectetur lorem donec massa sapien faucibus. Aliquam sem fringilla ut morbi tincidunt augue interdum velit. Blandit turpis cursus in hac habitasse. Neque aliquam vestibulum morbi blandit cursus risus at ultrices mi. Elementum integer enim neque volutpat ac tincidunt vitae. Amet consectetur adipiscing elit pellentesque habitant morbi. Arcu cursus euismod quis viverra. Semper viverra nam libero justo laoreet sit. Amet consectetur adipiscing elit ut aliquam. Mauris sit amet massa vitae tortor condimentum lacinia.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16438562376d3793f3-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "1643856466a5edab23": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<p style=\"padding: 0rem 4rem;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet justo donec enim diam vulputate. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet mattis vulputate enim nulla aliquet porttitor. Amet justo donec enim diam vulputate. Donec massa sapien faucibus et molestie ac. Faucibus a pellentesque sit amet porttitor eget dolor morbi. Sapien faucibus et molestie ac. Eleifend quam adipiscing vitae proin sagittis. Lectus sit amet est placerat in egestas erat imperdiet sed. Et malesuada fames ac turpis egestas. Diam maecenas ultricies mi eget. Tempor nec feugiat nisl pretium fusce id velit ut. Varius quam quisque id diam. Arcu dictum varius duis at consectetur lorem donec massa. Tristique risus nec feugiat in fermentum.<\/p>\n\n<p style=\"padding: 0rem 4rem;\"> Dictum varius duis at consectetur lorem donec massa sapien faucibus. Aliquam sem fringilla ut morbi tincidunt augue interdum velit. Blandit turpis cursus in hac habitasse. Neque aliquam vestibulum morbi blandit cursus risus at ultrices mi. Elementum integer enim neque volutpat ac tincidunt vitae. Amet consectetur adipiscing elit pellentesque habitant morbi. Arcu cursus euismod quis viverra. Semper viverra nam libero justo laoreet sit. Amet consectetur adipiscing elit ut aliquam. Mauris sit amet massa vitae tortor condimentum lacinia.<\/p>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1643856008536f524a",
+    "164385623786ebb117",
+    "1643856466a5edab23"
+  ]
+}
