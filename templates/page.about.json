@@ -62,34 +62,15 @@
       "type": "rich-text",
       "disabled": true,
       "blocks": {
-        "16438562376d3793f3-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Welcome.",
-            "heading_size": "h1"
-          }
-        },
         "16438562376d3793f3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Professionally refurbished designer furniture from all schools and styles.<\/p>"
-          }
-        },
-        "16438562376d3793f3-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet justo donec enim diam vulputate. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet mattis vulputate enim nulla aliquet porttitor. Amet justo donec enim diam vulputate. Donec massa sapien faucibus et molestie ac. Faucibus a pellentesque sit amet porttitor eget dolor morbi. Sapien faucibus et molestie ac. Eleifend quam adipiscing vitae proin sagittis. Lectus sit amet est placerat in egestas erat imperdiet sed. Et malesuada fames ac turpis egestas. Diam maecenas ultricies mi eget. Tempor nec feugiat nisl pretium fusce id velit ut. Varius quam quisque id diam. Arcu dictum varius duis at consectetur lorem donec massa. Tristique risus nec feugiat in fermentum.<\/p><p>Dictum varius duis at consectetur lorem donec massa sapien faucibus. Aliquam sem fringilla ut morbi tincidunt augue interdum velit. Blandit turpis cursus in hac habitasse. Neque aliquam vestibulum morbi blandit cursus risus at ultrices mi. Elementum integer enim neque volutpat ac tincidunt vitae. Amet consectetur adipiscing elit pellentesque habitant morbi. Arcu cursus euismod quis viverra. Semper viverra nam libero justo laoreet sit. Amet consectetur adipiscing elit ut aliquam. Mauris sit amet massa vitae tortor condimentum lacinia.<\/p>"
           }
         }
       },
       "block_order": [
-        "16438562376d3793f3-0",
-        "16438562376d3793f3-1",
-        "16438562376d3793f3-2"
+        "16438562376d3793f3-1"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -98,11 +79,10 @@
         "padding_bottom": 32
       }
     },
-    "164385624252983492": {
+    "1643856466a5edab23": {
       "type": "custom-liquid",
-      "disabled": true,
       "settings": {
-        "custom_liquid": "",
+        "custom_liquid": "<p style=\"padding: 0rem 4rem;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet justo donec enim diam vulputate. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet mattis vulputate enim nulla aliquet porttitor. Amet justo donec enim diam vulputate. Donec massa sapien faucibus et molestie ac. Faucibus a pellentesque sit amet porttitor eget dolor morbi. Sapien faucibus et molestie ac. Eleifend quam adipiscing vitae proin sagittis. Lectus sit amet est placerat in egestas erat imperdiet sed. Et malesuada fames ac turpis egestas. Diam maecenas ultricies mi eget. Tempor nec feugiat nisl pretium fusce id velit ut. Varius quam quisque id diam. Arcu dictum varius duis at consectetur lorem donec massa. Tristique risus nec feugiat in fermentum.<\/p>\n\n<p style=\"padding: 0rem 4rem;\"> Dictum varius duis at consectetur lorem donec massa sapien faucibus. Aliquam sem fringilla ut morbi tincidunt augue interdum velit. Blandit turpis cursus in hac habitasse. Neque aliquam vestibulum morbi blandit cursus risus at ultrices mi. Elementum integer enim neque volutpat ac tincidunt vitae. Amet consectetur adipiscing elit pellentesque habitant morbi. Arcu cursus euismod quis viverra. Semper viverra nam libero justo laoreet sit. Amet consectetur adipiscing elit ut aliquam. Mauris sit amet massa vitae tortor condimentum lacinia.<\/p>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -113,6 +93,6 @@
     "main",
     "1643856008536f524a",
     "164385623786ebb117",
-    "164385624252983492"
+    "1643856466a5edab23"
   ]
 }
