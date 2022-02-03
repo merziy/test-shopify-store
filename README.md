@@ -1,6 +1,6 @@
 # Custom Shopify Theme
 
-This is a Shopify theme I developed based on the Shopify theme [Dawn](https://github.com/Shopify/dawn). I picked Dawn becayse of it's semantic HTML/Liquid focused approach that minimizes JavaScript for a very fast and minimal website. 
+This is a Shopify theme I developed based on the Shopify theme [Dawn](https://github.com/Shopify/dawn). I picked Dawn because of it's semantic HTML/Liquid focused approach that minimizes JavaScript for a very fast and minimal website. 
 
 ## Features
 
