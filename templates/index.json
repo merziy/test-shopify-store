@@ -70,7 +70,7 @@
         "text"
       ],
       "settings": {
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 28,
         "padding_bottom": 28
@@ -82,7 +82,7 @@
         "title": "Featured products",
         "collection": "all",
         "products_to_show": 6,
-        "color_scheme": "inverse",
+        "color_scheme": "background-1",
         "show_view_all": false,
         "swipe_on_mobile": false,
         "image_ratio": "square",
@@ -150,23 +150,25 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Our Guarantee:",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Erat nam at lectus urna.<\/p>",
             "link_label": "",
             "link": ""
           }
         },
         "column2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Erat nam at lectus urna.<\/p>",
             "link_label": "",
             "link": ""
           }
         },
         "column3": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
