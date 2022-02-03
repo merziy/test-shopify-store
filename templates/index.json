@@ -36,9 +36,9 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/inside-weather-OzqieLcs464-unsplash.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "adapt_height_first_image": true,
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
